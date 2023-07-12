@@ -6,7 +6,7 @@
 
 This GitHub organization aims to collect a set of efficient, high-performance, reduced-cost, and highly scalable tools for quantum mechanical first-principle many-body calculations of solids at the atomic scale. The goal is to establish a toolkit of packages for materials modeling with predictive power. 
 
-A cornerstone of this organization will be the implementation of a coupled cluster code for large periodic simulation cells containing about 1000 correlated electrons. The main programming language will be Julia.
+A cornerstone of this organization will be the implementation of a coupled cluster code for large periodic simulation cells containing about 1000 correlated electrons. [This project is funded](https://pf.fwf.ac.at/en/research-in-practice/project-finder/60015) by the Austrian Science Fund (FWF). The main programming language will be Julia.
 
 Join us in advancing computational materials modeling.
 
