@@ -10,4 +10,4 @@ A cornerstone of this organization will be the implementation of a coupled clust
 
 Join us in advancing computational materials modeling.
 
-<p align="center"> <img src="logo/logo2.png" width="640" height="256"> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/QMBTK/.github/main/profile/logo/logo2.png" width="640" height="256"> </p>
