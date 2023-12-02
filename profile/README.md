@@ -1,6 +1,6 @@
-# <p align="center"> QMBTK </p>
+# <p align="center"> LAQStk </p>
 
-## <p align="center"> Quantum Many-Body Toolkit for Materials Modelling </p>
+## <p align="center"> Large-Scale Quantum Materials Simulations Toolkit  </p>
 
 <!-- ## About-->
 
