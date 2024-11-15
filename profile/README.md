@@ -1,6 +1,6 @@
-# <p align="center"> LAQStk </p>
+# <p align="center"> CMStk </p>
 
-## <p align="center"> Large-Scale Quantum Materials Simulations Toolkit  </p>
+## <p align="center">  Computational Materials Science toolkit  </p>
 
 <!-- ## About-->
 
